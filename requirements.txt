@@ -1,0 +1,10 @@
+opencv-python
+torch
+torchvision
+mediapipe
+numpy
+pandas
+scikit-learn
+Pillow
+gTTS
+pygame
